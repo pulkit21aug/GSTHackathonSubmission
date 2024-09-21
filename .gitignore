@@ -1,0 +1,12 @@
+
+.idea/*
+.venv/*
+__pycache__/*
+resources/test/X_Test_Data_Input.csv
+resources/test/Y_Test_Data_Target.csv
+resources/train/X_Train_Data_Input.csv
+resources/train/Y_Train_Data_Target.csv
+target/distplots_cats.html
+target/distplots_nums.html
+target/pair_scatters.html
+target/scatterplots.html
